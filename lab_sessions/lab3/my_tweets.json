@@ -6,12 +6,12 @@
     },
     "2": {
         "sentiment_label": "positive",
-        "text_of_tweet": "Jenn is a source of happiness for us!🌹💋",
+        "text_of_tweet": "Jenn is a source of happiness for us!",
         "tweet_url": "https://x.com/CarmenR92872503/status/1895274815461957681"
     },
     "3": {
         "sentiment_label": "negative",
-        "text_of_tweet": "U got a baddie next to you and you still choose to horanghae ? 😭",
+        "text_of_tweet": "U got a baddie next to you and you still choose to horanghae ?",
         "tweet_url": "https://x.com/athieexotic/status/1894894293661204597"
     },
     "4": {
@@ -56,7 +56,7 @@
     },
     "12": {
         "sentiment_label": "positive",
-        "text_of_tweet": "Joeboy as Layi Wasabi’s Taxi Driver!! This is too funny 😂",
+        "text_of_tweet": "Joeboy as Layi Wasabi’s Taxi Driver!! This is too funny",
         "tweet_url": "https://x.com/Olamide0fficial/status/1895138919685009650"
     },
     "13": {
@@ -116,7 +116,7 @@
     },
     "24": {
         "sentiment_label": "positive",
-        "text_of_tweet": "Dogs happiness before and after being told that they're a good boy, girl..🐕🐾😊",
+        "text_of_tweet": "Dogs happiness before and after being told that they're a good boy, girl..",
         "tweet_url": "https://x.com/Yoda4ever/status/1895075165756883104"
     },
     "25": {
@@ -146,7 +146,7 @@
     },
     "30": {
         "sentiment_label": "positive",
-        "text_of_tweet": "THIS REACTION IS JUST SO VALID 😭😭😭😭",
+        "text_of_tweet": "THIS REACTION IS JUST SO VALID",
         "tweet_url": "https://x.com/H0NGLOVER/status/1895164446433255473"
     },
     "31": {
@@ -181,7 +181,7 @@
     },
     "37": {
         "sentiment_label": "negative",
-        "text_of_tweet": "This is infuriating 😡",
+        "text_of_tweet": "This is infuriating",
         "tweet_url": "https://x.com/elonmusk/status/1895171319370522675"
     },
     "38": {
@@ -191,7 +191,7 @@
     },
     "39": {
         "sentiment_label": "positive",
-        "text_of_tweet": "How bro handled this should be studied. A true king 👏",
+        "text_of_tweet": "How bro handled this should be studied. A true king",
         "tweet_url": "https://x.com/blxckEntertain/status/1895366090550845564"
     },
     "40": {
